@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
-      <change afterPath="$PROJECT_DIR$/Code/Const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level2Bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Menu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/MenuBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player1Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Player2Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Score.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ScoreBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/fase1.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +34,11 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -89,15 +65,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.game.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.menu.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature__level"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\pythonProject4\asset" />
@@ -200,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724109418678</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creating main loop&#10;Connecting Menu and Game classes">
+      <option name="closed" value="true" />
+      <created>1724325001564</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724325001564</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,26 +202,5 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
     <option name="LAST_COMMIT_MESSAGE" value="Creating main loop&#10;Connecting Menu and Game classes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Code/menu.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Code/menu.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Code/menu.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
