@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
+    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Changing menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/menu.py" afterDir="false" />
     </list>
@@ -65,15 +65,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.menu.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature__level"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature__level&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\pythonProject4\asset" />
@@ -201,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating main loop&#10;Connecting Menu and Game classes" />
+    <MESSAGE value="Changing menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing menu" />
   </component>
 </project>
