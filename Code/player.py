@@ -5,6 +5,7 @@ import pygame.key
 from Code.Const import ENTITY_SHOT_DELAY, PLAYER_KEY_UP, ENTITY_SPEED, PLAYER_KEY_DOWN, WIN_HEIGHT, PLAYER_KEY_LEFT, \
     WIN_WIDTH, PLAYER_KEY_RIGHT, PLAYER_KEY_SHOOT
 from Code.entity import Entity
+from PlayerShot import PlayerShot
 
 
 class Player(Entity):

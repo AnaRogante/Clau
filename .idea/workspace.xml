@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Creating Players and Enemies&#10;Moving players and Enemies">
-      <change afterPath="$PROJECT_DIR$/Code/EntityMediator.py" afterDir="false" />
+    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Creating mediator Pattern &#10;Enemies destruction.">
+      <change afterPath="$PROJECT_DIR$/Code/EnemyShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayerShot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/EntityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/EntityMediator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724763198632</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Creating mediator Pattern &#10;Enemies destruction.">
+      <option name="closed" value="true" />
+      <created>1724781223848</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724781223848</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +248,7 @@
     <MESSAGE value="Changing menu" />
     <MESSAGE value="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
     <MESSAGE value="Creating Players and Enemies&#10;Moving players and Enemies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Players and Enemies&#10;Moving players and Enemies" />
+    <MESSAGE value="Creating mediator Pattern &#10;Enemies destruction." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating mediator Pattern &#10;Enemies destruction." />
   </component>
 </project>
