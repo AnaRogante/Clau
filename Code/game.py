@@ -3,11 +3,11 @@
 import sys
 
 import pygame
+from pygame.examples.aliens import Score
 
-from code.Const import WIN_WIDTH, WIN_HEIGHT, MENU_OPTION
-from code.Level import Level
-from code.Menu import Menu
-from code.Score import Score
+from Code.Const import MENU_OPTION, WIN_WIDTH, WIN_HEIGHT
+from Code.level import Level
+from Code.menu import Menu
 
 
 class Game:
