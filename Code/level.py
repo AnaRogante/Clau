@@ -7,6 +7,7 @@ import pygame
 from pygame import Surface, Rect
 from pygame.font import Font
 
+from Code import EntityMediator
 from Code.Const import TIMEOUT_LEVEL, MENU_OPTION, EVENT_ENEMY, SPAWN_TIME, EVENT_TIMEOUT, TIMEOUT_STEP, C_GREEN, \
     C_CYAN, C_WHITE, WIN_HEIGHT
 from Code.enemy import Enemy
