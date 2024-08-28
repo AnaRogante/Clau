@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import sys
 
 import pygame
@@ -37,4 +40,3 @@ class Game:
             else:
                 pygame.quit()
                 sys.exit()
-
