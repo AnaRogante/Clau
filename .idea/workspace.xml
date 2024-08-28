@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Creating mediator Pattern &#10;Enemies destruction.">
-      <change afterPath="$PROJECT_DIR$/Code/EnemyShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlayerShot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/EntityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/EntityMediator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

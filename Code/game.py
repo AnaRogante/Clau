@@ -1,11 +1,8 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 import sys
 
 import pygame
-from pygame.examples.aliens import Score
 
-from Code.Const import MENU_OPTION, WIN_WIDTH, WIN_HEIGHT
+from Code.Const import WIN_WIDTH, WIN_HEIGHT, MENU_OPTION
 from Code.level import Level
 from Code.menu import Menu
 
@@ -39,3 +36,4 @@ class Game:
             else:
                 pygame.quit()
                 sys.exit()
+
