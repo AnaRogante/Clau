@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Mountain">
-      <change afterPath="$PROJECT_DIR$/asset/Enemy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Enemy3Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3Bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3Bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3Bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3Bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/Level3Bg4.png" afterDir="false" />
+    <list default="true" id="391176dc-4491-4810-83ba-795fe38482a8" name="Changes" comment="Mountain Shooter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/EntityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/EntityMediator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/entityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724885877263</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Mountain">
+      <option name="closed" value="true" />
+      <created>1725316579787</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725316579787</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
