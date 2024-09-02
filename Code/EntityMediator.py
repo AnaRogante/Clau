@@ -69,3 +69,11 @@ class EntityMediator:
                 if isinstance(ent, Enemy):
                     EntityMediator.__give_score(ent, entity_list)
                 entity_list.remove(ent)
+
+
+def verify_health(entity_list):
+    return None
+
+
+def verify_collision(entity_list):
+    return None
